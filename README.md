@@ -1,2 +1,2 @@
-# pokedex-nodejs
+# pokedex-js
  
